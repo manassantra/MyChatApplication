@@ -1,6 +1,8 @@
 **Example : https://www.pubnub.com/docs/chat/functions/chatbots#setting-up-the-pubnub-function
 
 =================== [ EXAMPLE ] =================================
+run : $npm start
+-------------------->
 
 **APP NAME : My First App	
 	
